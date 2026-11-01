@@ -1,6 +1,6 @@
-const int X_PIN = A0
-const int Y_PIN = A1
-const int SW_PIN = 2
+const int X_PIN = A0;
+const int Y_PIN = A1;
+const int SW_PIN = 2;
 
 int xValue;
 int yValue;
